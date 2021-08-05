@@ -6,9 +6,9 @@
 4.	**```Katalon Recorder```** (Selenium tests generator)
 
 5. SelectorHub & ChroPath screenshots: If id looks dynamic then Uncheck the id checkbox/delete the id attribute from attribute box to generate rel xpath without id if it is generated with id.
-![Screenshot_1](https://github.com/sanjeebKumarGouda/facebookPostAutomation/blob/main/1.png )
-![Screenshot_2](https://github.com/sanjeebKumarGouda/facebookPostAutomation/blob/main/2.png )
-![Screenshot_3](https://github.com/sanjeebKumarGouda/facebookPostAutomation/blob/main/3.png )
+![Screenshot_1](https://github.com/sanjeebKumarGouda/facebookPostAutomation/blob/main/resources/1.png )
+![Screenshot_2](https://github.com/sanjeebKumarGouda/facebookPostAutomation/blob/main/resources/2.png )
+![Screenshot_3](https://github.com/sanjeebKumarGouda/facebookPostAutomation/blob/main/resources/3.png )
 
  
  
